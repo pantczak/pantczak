@@ -23,7 +23,7 @@
 <img alt="VMware" src="https://img.shields.io/badge/-VMware-43853d?style=flat-square&logo=VMware&logoColor=white"/>
 </p>
 
-<h3 align="left"> :books: Currently working on</h3>
+<h3 align="left"> :computer: Currently working on</h3>
 
 * [ElectronicsShopHexed](https://github.com/pantczak/ElectronicsShopHexed)
 * [ElectronicsShopEE](https://github.com/pantczak/ElectronicsShopEE)
