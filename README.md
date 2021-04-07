@@ -3,7 +3,7 @@
 <p>Welcome to my Github profile!<br>I'm Piotr, Information Technology student from <img src="https://image.flaticon.com/icons/svg/197/197529.svg" width="13"/> <b>Lodz, Poland.</b>
 </p>
 
-<h3 align="left"> :toolbox: Technologies and tools I use:</h3>
+<h3 align="left"> :toolbox: Technologies and tools I use</h3>
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=docker&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/-Java-46a2f1?style=flat-square&logo=java&logoColor=white" />
@@ -23,12 +23,12 @@
 <img alt="VMware" src="https://img.shields.io/badge/-VMware-43853d?style=flat-square&logo=VMware&logoColor=white"/>
 </p>
 
-<h3 align="left"> :books: Currently working on:</h3>
+<h3 align="left"> :books: Currently working on</h3>
 
 * [ElectronicsShopHexed](https://github.com/pantczak/ElectronicsShopHexed)
 * [ElectronicsShopEE](https://github.com/pantczak/ElectronicsShopEE)
 
-<h3 align="left"> :books: What I'm currently learning:</h3>
+<h3 align="left"> :books: What I'm currently learning</h3>
 
 * JavaEE/JakartaEE
 * Spring
@@ -36,6 +36,7 @@
 * React
 * VMware
 
-#### :mailbox: Find me at
+<h3 align="left"> :mailbox: Find me at</h3>
+
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/pantczak)](https://github.com/pantczak) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piotr-antczak-6a09ba18a/)](https://www.linkedin.com/in/piotr-antczak-6a09ba18a)
