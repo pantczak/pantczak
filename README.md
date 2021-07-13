@@ -30,13 +30,17 @@
 
 <h3 align="left"> :books: What I'm currently learning</h3>
 
-* JavaEE/JakartaEE
 * Spring
 * Hibernate
-* React
+* Angular
+* Jenkins
 * VMware
 
-<h3 align="left"> :mailbox: Find me at</h3>
+<h3 align="left"> :mailbox: Reach me by email: </h3>
+
+<work@antczakpiotr.pl>
+
+<h3 align="left"> 🌍: Find me at</h3>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/pantczak)](https://github.com/pantczak) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piotr-antczak-6a09ba18a/)](https://www.linkedin.com/in/piotr-antczak-6a09ba18a)
