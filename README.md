@@ -38,7 +38,7 @@
 
 <h3 align="left"> :mailbox: Reach me by email: </h3>
 
-<contact@antczakpiotr.pl>
+Please DM me via Linkedin provided below
 
 <h3 align="left"> 🌍: Find me at</h3>
 
