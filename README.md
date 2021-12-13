@@ -1,6 +1,6 @@
 <h1 align="center" >Hello there! :wave: Nice to see you.</h1>
 
-<p>Welcome to my Github profile!<br>I'm Piotr, Information Technology student from <img src="https://image.flaticon.com/icons/svg/197/197529.svg" width="13"/> <b>Lodz, Poland.</b>
+<p>Welcome to my Github profile!<br>I'm Piotr, Information Technology student from <img src=".github/poland.png" width="13"/> <b>Lodz, Poland.</b>
 </p>
 
 <h3 align="left"> :toolbox: Technologies and tools I use</h3>
