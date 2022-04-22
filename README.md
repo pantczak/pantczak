@@ -1,6 +1,6 @@
 <h1 align="center" >Hello there! :wave: Nice to see you.</h1>
 
-<p>Welcome to my Github profile!<br>I'm Piotr, Information Technology student from <img src=".github/poland.png" width="13"/> <b>Lodz, Poland.</b>
+<p>Welcome to my Github profile!<br>I'm Piotr, B.Sc. in Information Technology from <img src=".github/poland.png" width="13"/> <b>Lodz, Poland.</b>
 </p>
 
 <h3 align="left"> :toolbox: Technologies and tools I use</h3>
@@ -14,27 +14,22 @@
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-CC6699?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-E10098?style=flat-square&logo=apache-cassandra&logoColor=white"/>
 <img alt="JavaEE" src="https://img.shields.io/badge/-JavaEE-ea2845?style=flat-square&logo=java&logoColor=white"/>
-<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-DD0031?style=flat-square&logo=ruby&logoColor=white"/>
+<img alt="OpenShift" src="https://img.shields.io/badge/-OpenShift-ea3015?style=flat-square&logo=RedHatOpenShift&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=python&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/-C%23-EC4A3F?style=flat-square&logo=C-sharp&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-F9A03C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E37325?style=flat-square&logo=Jenkins&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-F7B93E?style=flat-square&logo=linux&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/-Spring-13aa52?style=flat-square&logo=spring&logoColor=white"/>
 <img alt="VMware" src="https://img.shields.io/badge/-VMware-43853d?style=flat-square&logo=VMware&logoColor=white"/>
-</p>
 
 <h3 align="left"> :computer: Currently working on</h3>
 
-* [ElectronicsShopHexed](https://github.com/pantczak/ElectronicsShopHexed)
-* [ElectronicsShopEE](https://github.com/pantczak/ElectronicsShopEE)
+* Sharpening my DevOps related skills, as I want to move from Fullstack to DevOps Engineer position soon
 
 <h3 align="left"> :books: What I'm currently learning</h3>
 
-* Spring
-* Hibernate
-* Angular
 * Jenkins
-* VMware
+* Kubernetes
+* Bash
 
 <h3 align="left"> :mailbox: Reach me by email: </h3>
 
@@ -43,4 +38,4 @@
 <h3 align="left"> 🌍: Find me at</h3>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/pantczak)](https://github.com/pantczak) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piotr-antczak-6a09ba18a/)](https://www.linkedin.com/in/piotr-antczak-6a09ba18a)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antczakpiotr/)](https://www.linkedin.com/in/antczakpiotr/)
