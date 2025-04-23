@@ -26,7 +26,7 @@ I have also recently completed my master's degree in Business Management.
 
 <h3 align="left"> :computer: Currently working on</h3>
 
-* SC-300 certification
+* SC-300 and AI-900 certification
 * Homelab project
 
 <h3 align="left"> :books: What I'm currently learning</h3>
