@@ -23,17 +23,18 @@ I have also recently completed my master's degree in Business Management.
 
 * [AZ-900](https://learn.microsoft.com/en-gb/users/piotrantczak-3740/credentials/4acc4cabaec221ce) 
 * [AZ-104](https://learn.microsoft.com/en-gb/users/piotrantczak-3740/credentials/e5dae42ccbbad9ed)
+* [AI-900](https://learn.microsoft.com/en-gb/users/piotrantczak-3740/credentials/f0c1d9e37255efda)
 
 <h3 align="left"> :computer: Currently working on</h3>
 
-* SC-300 and AI-900 certification
+* GitHub Administrator certification
 * Homelab project
 
 <h3 align="left"> :books: What I'm currently learning</h3>
 
 * Azure
 * Kubernetes
-* GitLab
+* GitLab & GitHub
 
 <h3 align="left"> 🌍: Find me at</h3>
 
